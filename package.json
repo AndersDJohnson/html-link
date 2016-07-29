@@ -1,0 +1,22 @@
+{
+  "name": "html-link",
+  "version": "1.0.0",
+  "description": "Creates HTML link.",
+  "main": "index.js",
+  "bin": {
+    "html-link": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anders D. Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "args-or-stdin": "^1",
+    "error-exit": "^1",
+    "escape-html": "^1.0.3",
+    "log-result": "^1",
+    "spreader": "^1"
+  }
+}
