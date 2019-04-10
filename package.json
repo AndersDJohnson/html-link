@@ -1,6 +1,6 @@
 {
   "name": "html-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates HTML link.",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Anders D. Johnson",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "ISC",
   "dependencies": {
     "args-or-stdin": "^1",
